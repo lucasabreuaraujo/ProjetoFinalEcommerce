@@ -1,0 +1,1 @@
+.imgbanner-final{height:30vh;position:relative;background-size:contain;background-position:center;background-repeat:no-repeat;animation:BannerAnimation2 30s infinite}@keyframes BannerAnimation2{0%{background-image:url(./img/Banner3.png)}100%{background-image:url(./img/Banner4.png)}}@media screen and (min-width: 1000px){.imgbanner2{height:550px}}
